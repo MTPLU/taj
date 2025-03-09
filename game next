@@ -4,13 +4,29 @@
     "nam1": "استقلال",
     "team2": "https://uploadkon.ir/uploads/e84c09_251741531219554.png",
     "nam2": "بارسلونا",
-    "time": "22:30"
+    "time": "22:30",
+    "Result": "برد",
+    "lin1": "https://uploadkon.ir/uploads/69b509_251741533556279.png",
+    "lin2": "https://uploadkon.ir/uploads/652009_25preview.jpg"
   },
   {
     "team1": "https://uploadkon.ir/uploads/c63f09_257f3fbf4259-Esteghlal-Logo-Background-Shaffaf-1-.png",
     "nam1": "استقلال",
     "team2": "https://uploadkon.ir/uploads/e84c09_251741531219554.png",
     "nam2": "بارسلونا",
-    "time": "22:30"
+    "time": "22:30",
+    "Result": "برد",
+    "lin1": "https://uploadkon.ir/uploads/69b509_251741533556279.png",
+    "lin2": "https://uploadkon.ir/uploads/652009_25preview.jpg"
+  },
+  {
+    "team1": "https://uploadkon.ir/uploads/c63f09_257f3fbf4259-Esteghlal-Logo-Background-Shaffaf-1-.png",
+    "nam1": "استقلال",
+    "team2": "https://uploadkon.ir/uploads/e84c09_251741531219554.png",
+    "nam2": "بارسلونا",
+    "time": "22:30",
+    "Result": "",
+    "lin1": "https://uploadkon.ir/uploads/69b509_251741533556279.png",
+    "lin2": "https://uploadkon.ir/uploads/652009_25preview.jpg"
   }
 ]
